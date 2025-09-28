@@ -23,7 +23,7 @@ A simple **Tip and Bill Calculator** built with **React**, **TypeScript**, **Vit
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-demo-link.netlify.app)  
+👉 [Click here to try the app](https://tipcalculatordemo.netlify.app/)  
 
 *(Replace with your actual Netlify, Vercel, or GitHub Pages link once deployed)*
 
