@@ -45,8 +45,9 @@ npm install
 
 npm run dev
 
-## Project Structure
+## 📂 Project Structure
 
+```text
 .
 ├── public/
 ├── src/
@@ -72,6 +73,7 @@ npm run dev
 ├── package.json
 ├── .gitignore
 └── README.md
+
 
 
 
