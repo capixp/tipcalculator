@@ -45,7 +45,7 @@ npm install
 
 npm run dev
 
-📂 Project Structure
+## Project Structure
 
 .
 ├── public/
@@ -72,6 +72,9 @@ npm run dev
 ├── package.json
 ├── .gitignore
 └── README.md
+
+
+
 
 components/: UI components
 
