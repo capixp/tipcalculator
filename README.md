@@ -94,22 +94,26 @@ Config files for Tailwind, Vite, and TypeScript
 
 ✅ Best Practices
 
-Use custom hooks to encapsulate state and logic
+- Use custom hooks to encapsulate state and logic
 
-Keep components small and reusable
+- Keep components small and reusable
 
-Define explicit TypeScript types for props and state
+- Define explicit TypeScript types for props and state
 
-Use Tailwind utility classes consistently
+- Use Tailwind utility classes consistently
 
-Follow ESLint rules and formatting for clean code
+- Follow ESLint rules and formatting for clean code
 
 📤 Deployment
 Netlify
 
-Push your project to GitHub.
+- Push your project to GitHub.
 
-Log in to Netlify
+- Log in to Netlify
+
+- Click New site from Git and connect your repo.
+
+- Netlify will auto-detect Vite and deploy it.
 
 
 
